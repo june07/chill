@@ -3,8 +3,24 @@
         "caption": "Capture what you have while you have it!",
         "description": "A letter envelope that although missing a bit, Letterbox was able to capture and archive the remaining portition."
     },
+    "02-1-0.webp": {
+        "caption": "And please DO NOT FOLD!",
+        "description": "Letterbox isn't here yet... actually neither is the Internet!"
+    },
     "800_33-0-0.webp": {
         "caption": "When stamps were only 13 cents!",
         "description": "A simpler time indeed."
+    },
+    "10c_stamp-0-0.webp": {
+        "caption": "When stamps were only 10 cents!",
+        "description": "How about that!"
+    },
+    "800_52-0-0.webp": {
+        "caption": "Returned for postage!",
+        "description": "Is it that serious?! I guess it was."
+    },
+    "800_18-0-0.webp": {
+        "caption": "Upland, CA",
+        "description": "I heard from someone that they have excellent donuts!"
     }
 }
